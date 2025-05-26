@@ -96,11 +96,11 @@
 
 // For3. Bir kg konfetning narxi berilgan (haqiqiy son). 1, 2, 10 kg konfetni narxini chiqaruvchi programma tuzilsin.
 
-let narx = 59_888;
+// let narx = 59_888;
 
-for (let i = 1; i <= 10; i++) {
-  console.log(`${i}kg =${i * narx}som`);
-}
+// for (let i = 1; i <= 10; i++) {
+//   console.log(`${i}kg =${i * narx}som`);
+// }
 
 // For4. Bir kg konfetning narxi berilgan (haqiqiy son). 1.2, 1.4, ..., 2 kg konfetni narxini chiqaruvchi programma tuzilsin.
 
